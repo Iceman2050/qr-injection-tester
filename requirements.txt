@@ -1,3 +1,4 @@
-# The one and only third-party dependency: QR code rendering.
 # Everything else in this project (mock vision agent, test runner) is stdlib-only.
+# The one and only third-party dependency: QR code rendering.
+pillow
 qrcode>=7.0
