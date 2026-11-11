@@ -161,4 +161,4 @@ full security platform suite:
 MIT — see [LICENSE](LICENSE).
 
 
-> Built by Ingenious AI with Muse — get free tokens with invite code `2HCQH1`
+> Built by Ingenious AI
